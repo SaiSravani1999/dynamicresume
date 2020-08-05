@@ -1,0 +1,47 @@
+{
+	"details":{
+		"name":"P. Sai Sravani",
+		"image":"profile.jpg",
+		"email":"sravanisai483@gmail.com",
+		"number":"34324232",
+		"address":"H.N0:45/29-1A,Adoni"
+	},
+	"careerobjective":{
+		"info":"to become s/w dev"
+	},
+	"educationqualification":[
+		{
+
+			"institution":"RGMCET",
+			"degree":"B-tech",
+			"passout":"2021",
+			"percentage":"86%"
+		},
+		{
+			"institution":"Chaitanya",
+			"degree":"Inter",
+			"passout":"2017",
+			"percentage":"95.6"
+		},
+		{
+			"institution":"Kiddys",
+			"degree":"SSC",
+			"passout":"2015",
+			"percentage":"9.8"
+		}
+	],
+	"technicalities":[
+		{
+			"title":"programming languages",
+			"info":["c,java,python"]
+		},
+		{
+			"title":"Databases",
+			"info":["DBMS,sql,mysql"]
+		},
+		{
+			"title":"Operating Systems",
+			"info":["Windows,linux"]
+		}
+	]
+}

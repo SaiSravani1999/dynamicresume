@@ -1,0 +1,42 @@
+.full{
+	display: flex;
+	flex-direction: row;
+	margin:5px;
+	padding: 5px;
+	justify-content: space-around;
+}
+
+.part1{
+	text-align: center;
+	margin: 5px;
+	border-radius: 1px;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding: 10px;
+
+
+}
+.part2{
+	text-align: center;
+	margin: 5px;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding: 10px;
+
+}
+.nav-link {
+	color: white;
+	font-family: red;
+	text-decoration: red;
+
+}
+a:hover{
+	text-decoration: white;
+	color: white;
+	background:green;
+}
+
+img{
+	border-radius: 90%;
+	size: 50%;
+}
